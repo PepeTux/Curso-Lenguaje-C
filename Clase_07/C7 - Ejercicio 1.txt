@@ -1,0 +1,32 @@
+Clase #7
+
+web : https://telegra.ph/Clase-7-Programacion-en-C-11-19
+usr : Monky
+date: 19/11/2022
+
+
+Ejercicio 1.
+
+7   Requerimientos ejercicio: 1.
+7.1 Realizar una funcion que evalue la contraseña de un usuario.
+7.2 Se dara un parametro (variable) con el valor de la contraseña ingresada.
+7.3 Evaluar/Comparar dentro de la funcion si este parametro es valido (contra una contraseña almacenada).
+7.4 Retornar el resultado en un tipo de dato adecuado.
+7.5 Probar esta funcion desde la funcion "main".
+7.6 Mostrar los resultados en la pantalla de salida.
+
+Nota: La contraseña almacena tiene el valor de: 9876543210.
+Tiempo de ejecucion: 25 mins.
+
+
+
+Usar la siguiente pagina para enviar los resultados.
+    
+    https://telegra.ph/
+
+1. Captura de la ventana del codigo.
+2. Captura del resultado de la compilacion.
+3. Captura de la pantalla de salida donde se muestre el resultado de la ejecucion.
+
+Enviar la pagina creada con los resultados despues de finalizar la prueba en el tiempo indicado.
+
